@@ -18,7 +18,7 @@ export default function Hero() {
             <div className="mt-8 flex flex-col sm:flex-row gap-3">
               <a
                 href="#contacto"
-                className="inline-flex items-center justify-center rounded-md bg-indigo-600 px-6 py-3 text-white font-medium shadow hover:bg-indigo-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-600/30"
+                className="inline-flex items-center justify-center rounded-md bg-red-600 px-6 py-3 text-white font-medium shadow hover:bg-red-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-600/30"
               >
                 Empezar gratis
               </a>
